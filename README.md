@@ -8,7 +8,7 @@
 
 <p align='center'>
   </br>
-  Onde estou?
+  Onde me encontrar?
   
 </p>
   </br>
@@ -17,6 +17,9 @@
   
   <a href="https://www.linkedin.com/in/guilherme-farias/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a href="https://t.me/guiFarias66">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>&nbsp;&nbsp;
   <a href="https://api.whatsapp.com/send?phone=5511910529070&text=Oii%20Gui">
     <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
