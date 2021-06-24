@@ -31,7 +31,26 @@
 </p>
 
   </br>
-
+  </br>
+<p align='center'>
+  Programador web 💻
+ </p>
+ <p align='center'>
+  Viciado em computação 🌐
+ </p>
+  <p align='center'>
+  Viciado em café ☕
+ </p>
+ <p align='center'>
+  Aaixonado por JS ❤🖤
+ </p>
+ <p align='center'>
+  Apaixonado por Python 🐍 ❤🖤
+ </p>
+ <p align='center'>
+  Se encantando cada vez nais pelo mundo da Inteligencia artificial🤖🧠
+ </p>
+  </br>
 
 <details>
   <summary>🖥📃 Resumo Profissional</summary>
