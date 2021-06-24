@@ -51,7 +51,7 @@
   Apaixonado por Python 🐍 ❤🖤
  </p>
  <p align='center'>
-  Se encantando cada vez nais pelo mundo da Inteligencia artificial🤖🧠
+  Se encantando cada vez mais pelo mundo da Inteligencia Artificial🤖🧠
  </p>
   </br>
 
