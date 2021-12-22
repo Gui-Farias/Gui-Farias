@@ -1,0 +1,173 @@
+%baseHex {
+  width: 19rem;
+  height: 11rem;
+  display: block;
+  position: absolute;
+  transform: rotate(60deg);
+
+  &::before,
+  &::after {
+    content: "";
+    background-color: inherit;
+  }
+
+  &::after {
+    transform: rotate(60deg);
+  }
+
+  &::before {
+    transform: rotate(-60deg);
+  }
+}
+
+%formaHex {
+  @extend %baseHex;
+
+  &::after {
+    @extend %baseHex;
+  }
+
+  &::before {
+    @extend %baseHex;
+  }
+
+  p::before {
+    content: "";
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
+    z-index: 999;
+    top: 50%;
+    left: 50%;
+    width: 70%;
+    height: 140%;
+    transform: translate(-50%, -50%) rotate(-60deg);
+  }
+}
+
+@mixin lang($lang) {
+  @extend %formaHex;
+
+  @if $lang == "html" {
+    top: 0;
+    left: 1.6%;
+    background-color: $lang-html;
+    p::before {
+      background-image: url("../img/html.png");
+    }
+  } @else if $lang == "js" {
+    bottom: 17%;
+    left: 18.2%;
+    background-color: $lang-js;
+    p::before {
+      background-image: url("../img/js.png");
+    }
+  } @else if $lang == "css" {
+    top: 0;
+    left: 34.4%;
+    background-color: $lang-css;
+    p::before {
+      background-image: url("../img/CSS.png");
+    }
+  } @else if $lang == "scss" {
+    bottom: 17%;
+    right: 20%;
+    background-color: $lang-scss;
+    p::before {
+      background-image: url("../img/sass.png");
+    }
+  } @else if $lang == "php" {
+    top: 0;
+    right: 4%;
+    background-color: $lang-php;
+    p::before {
+      background-image: url("../img/php.png");
+    }
+  } @else if $lang == "react" {
+    top: 10.8%;
+    left: 4%;
+    background-color: $lang-react;
+    p::before {
+      background-image: url("../img/react.png");
+    }
+  } @else if $lang == "node" {
+    top: 24.4%;
+    right: 6%;
+    background-color: $lang-node;
+    p::before {
+      background-image: url("../img/node.png");
+    }
+  } @else if $lang == "next" {
+    top: 44.4%;
+    left: 4%;
+    background-color: $lang-next;
+    p::before {
+      background-image: url("../img/next.png");
+    }
+  } @else if $lang == "vscode" {
+    top: 58.8%;
+    right: 6%;
+    background-color: $lang-vscode;
+    p::before {
+      background-image: url("../img/vscode.png");
+    }
+  }  @else if $lang == "linux" {
+    top: 79.1%;
+    left: 4%;
+    background-color: $lang-linux;
+    p::before {
+      background-image: url("../img/linux.png");
+    }
+  }
+}
+
+.hex {
+  &-html {
+    @include lang("html");
+  }
+
+  &-js {
+    @include lang("js");
+  }
+
+  &-css {
+    @include lang("css");
+  }
+
+  &-scss {
+    @include lang("scss");
+  }
+  
+  &-php {
+    @include lang("php");
+  }
+
+  &-sql {
+    @include lang("sql");
+  }
+
+  &-py {
+    @include lang("py");
+  }
+
+  &-react {
+    @include lang("react");
+  }
+
+  &-node {
+    @include lang("node");
+  }
+
+  &-next {
+    @include lang("next");
+  }
+  
+  &-vscode {
+    @include lang("vscode");
+  }
+
+  &-linux {
+    @include lang("linux");
+  }
+}

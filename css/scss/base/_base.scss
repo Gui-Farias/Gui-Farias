@@ -1,0 +1,48 @@
+
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html{
+    background-color: rgba($color-bg, 0.5);
+
+    //define o falor de 1rem para 10px
+    font-size: 62.5%;    
+
+    @include res(big-desk){
+        font-size: 75%; //1rem = 12px
+    }
+    @include res(big){
+        font-size: 56.25%;   //1rem = 9px      
+    }
+    @include res(medium){
+        font-size: 50%; //1 rem = 8px
+    }
+}
+
+body{
+    box-sizing: border-box;
+}
+
+ul{
+    list-style: none;
+
+    li {
+        text-decoration: none;
+        color: inherit;
+    }
+} 
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+::selection{
+//    background-color: $colorPrimary;
+//    color: $colorWhite;
+}

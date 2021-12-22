@@ -1,0 +1,48 @@
+@mixin clearfix {
+    &::after{
+        content: "";
+        display: table;
+        clear: both;
+    }
+}
+
+@mixin absCenter {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+@mixin boxShadow($a, $b, $c, $d : .4 ) {
+    -webkit-box-shadow: $a+rem $b+rem $c+rem rgba($color-black, $d);
+    -moz-box-shadow: $a+rem $b+rem $c+rem rgba($color-black, $d);
+    -ms-box-shadow: $a+rem $b+rem $c+rem rgba($color-black, $d);
+    box-shadow: $a+rem $b+rem $c+rem rgba($color-black, $d);
+}
+
+
+//MEDIA QUERY MANAGER
+
+// breakpoint opcoes
+// -small max 600px
+// -medium 600px to 900px
+// -big 900px to 1200px
+// normal 1200 to 1800px
+// -big-desk 1800px +
+
+@mixin res($breakpoint) {
+    @if $breakpoint == small {
+        @media only screen and (max-width: $res-small){@content}; 
+    };
+    @if $breakpoint == medium {
+        @media only screen and (max-width: $res-medium){@content};        
+    };
+    @if $breakpoint == big {
+        @media only screen and (max-width: $res-big){@content};        
+    };
+    @if $breakpoint == big-desk {
+        @media only screen and (min-width: $res-big-desk){@content};        
+    };
+
+}

@@ -1,0 +1,33 @@
+{
+  "name": "mypage",
+  "version": "1.0.0",
+  "description": "minha nova pagina de protifolio",
+  "main": "index.js",
+  "scripts": {
+    "css": "sass ./css/scss/main.scss ./css/style.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gui-Farias/myPage.git"
+  },
+  "keywords": [
+    "CV",
+    "Gui",
+    "Farias",
+    "Guilherme",
+    "Dev",
+    "Desenvolvedor",
+    "Web"
+  ],
+  "author": "Gui-Farias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gui-Farias/myPage/issues"
+  },
+  "homepage": "https://github.com/Gui-Farias/myPage#readme",
+  "devDependencies": {
+    "eslint": "^8.0.1",
+    "sass": "^1.43.2"
+  }
+}
