@@ -1,0 +1,62 @@
+/* bio */
+
+
+.link{
+    color: rgb(188, 5, 212) !important;
+}
+
+#bio {
+    font-size: 16px;
+    text-align: center;
+    padding-bottom: 60px;
+}
+
+
+/* jogo */
+#jogo {
+    font-size: 18px;
+    padding-bottom: 60px;
+    text-align: center;
+}
+
+
+/* perfil - nome*/
+
+
+.profile-page .profile {
+    text-align: center;
+    padding-bottom: 44px;
+}
+
+.profile-page .profile img{
+    max-width: 230px;
+    margin: 0 auto;
+    -webkit-transform: translate3d(0,-50%,0);
+    -moz-transform: translate3d(0,-50%,0);
+    -o-transform: translate3d(0,-50%,0);
+    -ms-transform: translate3d(0,-50%,0);
+    transform: translate3d(0,-50%,0);
+}
+
+.title {
+    margin-top: 30px;
+    margin-bottom: 25px;
+    min-height: 32px;
+    font-weight: 700;
+    font-family: "Roboto Slab","Times New Roman",serif;
+    margin-top: -90px;
+    font-size: 44px;
+}
+
+/* contato */
+
+.profile-page .description {
+    text-align: left !important;
+    max-width: 600px;
+    font-weight: 300;
+    padding-bottom: 7%;
+}
+
+.soci{
+    font-size: 30px;
+}

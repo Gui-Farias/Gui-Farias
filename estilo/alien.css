@@ -1,0 +1,70 @@
+
+#resumojogo {
+    text-align: center;
+    margin: 0 21%;
+    padding: 10% 0;
+}
+
+
+.volta{
+    position: absolute;
+    font-size: 24px;
+    margin: 2.5% 0 0 70%;
+}
+
+/* botoes das fotos */
+
+
+.profile-page .profile-tabs {
+    margin-top: 4.284rem;
+}
+
+.nav .nav-item {
+    position: relative;
+    margin: 0 2px;
+}
+
+.nav-pills.nav-pills-icons .nav-item .nav-link {
+    border-radius: 4px;
+}
+
+.nav-pills .nav-item .nav-link.active {
+    color: #fff;
+    background-color: #9c27b0;
+    box-shadow: 0 5px 20px 0 rgba(0,0,0,.2), 0 13px 24px -11px rgba(156,39,176,.6);
+}
+
+.nav-pills .nav-item .nav-link {
+    line-height: 24px;
+    font-size: 12px;
+    font-weight: 500;
+    min-width: 100px;
+    transition: all .3s;
+    border-radius: 350px;
+    padding: 10px 15px;
+}
+
+.tab-space {
+    padding: 20px 0 50px;
+}
+
+
+/* fotos */
+
+.tfoto{
+    padding-bottom: 24px;
+}
+
+.profile-page .gallery {
+    margin-top: 3.213rem;
+    padding-bottom: 50px;
+}
+
+.profile-page .gallery img {
+    width: 100%;
+    margin-bottom: 2.142rem;
+}
+
+img.rounded {
+    border-radius: 6px!important;
+}
