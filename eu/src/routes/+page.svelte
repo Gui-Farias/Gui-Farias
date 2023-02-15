@@ -1,2 +1,11 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+	import About from '$lib/template/About/About.svelte';
+	import Hero from '$lib/template/Hero/Hero.svelte';
+	import ServiceSkils from '$lib/template/ServiceSkils/ServiceSkils.svelte';
+	import Work from '$lib/template/work/Work.svelte';
+</script>
+
+<Hero />
+<About />
+<ServiceSkils />
+<Work />
