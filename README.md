@@ -3,14 +3,14 @@
 </h1>
 
 <p align='center'>
-  💻Programador web - 📌São Paulo - ✈Brasil
+  💻Programador web - 📌São Paulo - ✈️ Brasil
 </p>
 
 <p align='center'>
   </br>
   Onde me encontrar?
   </br>
-  <a href="https://guifarias.com.br">guifarias.com.br </a>
+  <a href="https://guifarias.com.br" target="_blank">guifarias.com.br </a>
 </p>
   </br>
 
@@ -40,13 +40,13 @@
   Programador web 💻
  </p>
  <p align='center'>
-  Viciado em computação 🌐
+  Viciado em computação 🌎
  </p>
   <p align='center'>
-  Viciado em café ☕
+  Viciado em café ☕️
  </p>
  <p align='center'>
-  Aaixonado por JS ❤🖤
+  Aaixonado por JS 💛
  </p>
  <p align='center'>
   Se encantando cada vez mais por 3D na web e desenvolvimento swift 💎📱
@@ -83,7 +83,7 @@
 <img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
 
 - 👨‍💻 **Desenvolvedor Web/Mobile**\
-📆 2021 - Atual\
+📆 2020 - Atual\
 📍 **Freelancer** - São Paulo/SP, Brasil
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
@@ -103,7 +103,7 @@
 <img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
 
 - 👨‍💻 **Desenvolvedor PHP**\
-📆 2019 - 2021\
+📆 2019 - 2020\
 📍 **Live Incentive** - São Paulo/SP, Brasil
 
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
