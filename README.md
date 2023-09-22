@@ -9,7 +9,8 @@
 <p align='center'>
   </br>
   Onde me encontrar?
-  
+  </br>
+  <a href="https://guifarias.com.br">guifarias.com.br </a>
 </p>
   </br>
 
@@ -48,10 +49,7 @@
   Aaixonado por JS ❤🖤
  </p>
  <p align='center'>
-  Apaixonado por Python 🐍 ❤🖤
- </p>
- <p align='center'>
-  Se encantando cada vez mais pelo mundo da Inteligencia Artificial🤖🧠
+  Se encantando cada vez mais por 3D na web e desenvolvimento swift 💎📱
  </p>
   </br>
 
@@ -74,9 +72,29 @@
 <img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 
+- 👨‍💻 **Desenvolvedor HTML | UI**\
+📆 2022 - Atual\
+📍 **REF+** - São Paulo/SP, Brasil · Remota
+<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=c-sharp&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
+
 - 👨‍💻 **Desenvolvedor Web/Mobile**\
 📆 2021 - Atual\
 📍 **Freelancer** - São Paulo/SP, Brasil
+<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=c-sharp&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
+
+- 👨‍💻 **Desenvolvedor front-end CSS3 **\
+📆 2021 - 2022\
+📍 **Fuerza Studio** - Rio Grande, Rio Grande do Sul, Brasil · Remota
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=c-sharp&logoColor=white" />
@@ -107,7 +125,7 @@
   </p>
   <h3>O que venho estudando?</h3>
   <p>
-    Sou formado em análise e desenvolvimento de sistemas pela faculdade Impacta, terminando uma certificação de Javascript algorithms and Data structures, pela FreeCodeCamp e estou sempre estudando as tecnologias mais avançadas, um dos meus grandes focos é Javascript e seus frameworks, como Jquery e React. Sem falar em python e sua complexidade com a Inteligencia artificial.
+    Sou formado em análise e desenvolvimento de sistemas pela faculdade Impacta, tenho algumas certificacoes em CSS e JS e estou terminando um bootcamp de React, pela Rocketseat, eu estou sempre estudando as tecnologias mais avançadas como Svelte para web, tambem venho estudando desenvolvimento nativo IOS, com swfit.
   </p>
 </details>
   
