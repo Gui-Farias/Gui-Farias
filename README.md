@@ -59,6 +59,10 @@
 
 ## Formação
 
+- 📖 **Front end Engineering**\
+📆 2024 - 2025\
+📍 **Fiap** - São Paulo/SP, Brasil
+
 - 📖 **Analise e desenvolvimento de sistemas**\
 📆 2018 - 2019\
 📍 **Faculdade Impacta** - São Paulo/SP, Brasil
