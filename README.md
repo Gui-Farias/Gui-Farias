@@ -46,7 +46,7 @@
   Viciado em café ☕️
  </p>
  <p align='center'>
-  Aaixonado por JS 💛
+  Apixonado por JS 💛
  </p>
  <p align='center'>
   Se encantando cada vez mais por 3D na web e desenvolvimento swift 💎📱
