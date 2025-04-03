@@ -49,7 +49,7 @@
   Apaixonado por JS 💛
  </p>
  <p align='center'>
-  Se encantando cada vez mais por 3D na web e desenvolvimento swift 💎📱
+  Se encantando cada vez mais por 3D na web 💎
  </p>
   </br>
 
@@ -129,7 +129,7 @@
   </p>
   <h3>O que venho estudando?</h3>
   <p>
-    Sou formado em análise e desenvolvimento de sistemas pela faculdade Impacta, tenho algumas certificacoes em CSS e JS e estou terminando um bootcamp de React, pela Rocketseat, eu estou sempre estudando as tecnologias mais avançadas como Svelte para web, tambem venho estudando desenvolvimento nativo IOS, com swfit.
+    Sou formado em análise e desenvolvimento de sistemas pela faculdade Impacta, tenho algumas certificacoes em CSS e JS e estou terminando minha pós em front end engineer, com enfase em data visualization.
   </p>
 </details>
   
